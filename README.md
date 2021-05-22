@@ -85,18 +85,6 @@ Microservices . Postgresql . MongoDB . Python . JavaScript . C++ . NodeJs
 
 <!-- section - blogs -->
 
-## How To Make a Similar Home Page for your GitHub ? 😎
-
-1. Fork this repo.
-
-2. Edit the README.md file with your info.
-
-3. Rename your repo to your github username in settings tab.(for example my username is ombharatiya)
-
-4. You made it!
-
-Don't forget to add a Star ⭐ on this repo if you liked it & follow me for interesting stuff. 
-
 
 
 ## Thank you and Namaste! 🙏
