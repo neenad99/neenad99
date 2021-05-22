@@ -23,6 +23,7 @@
 
 
 <!-- section - intro -->
+Hello I am Neenad Kambli currently in my final year of btech degree in Computer Science at Mit Pune.
 <!--#### **SDE** @ **HashedIn | Microsoft | ISRO** -->
 
 # ❤ to Build - Software Engineer & Enthusiast!
