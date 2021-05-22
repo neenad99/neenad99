@@ -23,13 +23,12 @@
 
 
 <!-- section - intro -->
-Hello I am Neenad Kambli currently in my final year of btech degree in Computer Science at Mit Pune.
 <!--#### **SDE** @ **HashedIn | Microsoft | ISRO** -->
 
-# ❤ to Build - Software Engineer & Enthusiast!
+# ❤ to Build - Upcoming Software Engineer & Enthusiast!
 
 
-Hi, I'm Neenad — a **upcoming software engineer** at **UBS**. My working principle is learning by doing. Always up for a discussion on  softwares, business, entrepreneurship. ✌💖
+Hi, I'm Neenad — a **upcoming software engineer** at **UBS**.currently in my final year of btech degree in Computer Science at Mit Pune, My working principle is learning by doing. Always up for a discussion on  softwares, business, entrepreneurship. ✌💖
 
 <!-- section - intro -->
 
