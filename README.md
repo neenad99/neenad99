@@ -110,8 +110,7 @@ Thanks for reading about me. You can connect with me on ..
 [![github ombharatiya][2.1]][2]
 [![twitter ombharatiya][3.1]][3]
 [![medium ombharatiya][4.1]][4]
-[![stackoverflow om-bharatiya][5.1]][5]
-[![dev to ombharatiya][6.1]][6]
+
 
 <!-- section - social media icons -->
 
