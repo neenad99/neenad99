@@ -57,7 +57,7 @@ Microservices . Postgresql . MongoDB . Python . JavaScript . C++ . NodeJs
 
 ## On the job .. 💯
 
-> Upcoming Software Engineer - [**UBS**](https://www.ubs.com/in/en.html)  ⭐
+> Software Engineer - [**UBS**](https://www.ubs.com/in/en.html)  ⭐
 
 
 <!-- section - job details -->
